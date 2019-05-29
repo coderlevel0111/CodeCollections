@@ -7,6 +7,6 @@ target 'CodeCollections' do
 
   # Pods for CodeCollections
   pod 'TesseractOCRiOS'
-  pod 'RxSwift'
+  pod 'RxSwift', '~> 4.5'
 
 end
